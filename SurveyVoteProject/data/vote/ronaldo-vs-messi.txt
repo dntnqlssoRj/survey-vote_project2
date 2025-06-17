@@ -1,0 +1,6 @@
+ronaldo vs messi
+1
+ronaldo:1
+messi:0
+---VOTERS---
+김정훈
